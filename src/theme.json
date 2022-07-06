@@ -1,0 +1,6 @@
+{
+  "primaryColor": "var(--primary-color)",
+  "secundaryColor": "var(--secundary-color)",
+  "menuItemColor": "var(--menu-item-color)",
+  "menuItemIconColor": "var(--menu-item-icon-color)"
+}

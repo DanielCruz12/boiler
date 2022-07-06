@@ -1,0 +1,5 @@
+export const COLLAPSED_MENU = "COLLAPSED_MENU";
+export const AUTHENTICATION = "AUTHENTICATION";
+export const CHANGE_THEME = "CHANGE_THEME";
+export const CHANGE_LOGO = "CHANGE_LOGO";
+export const LOGOUT = "LOGOUT";
